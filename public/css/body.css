@@ -1,0 +1,12 @@
+body{
+    background-image: radial-gradient(circle, #040405, #1c2632, #1b485a, #006e7c, #00968f);
+}
+
+.stack {
+    display: block; /* Asegura que la imagen sea un bloque */
+    margin: 0 auto; /* Establece los márgenes izquierdo y derecho automáticos para centrar la imagen horizontalmente */
+}
+
+#lbltitulo {
+    margin-bottom: 20px; /* Reducir el margen inferior del título */
+}
