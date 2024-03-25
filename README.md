@@ -33,20 +33,31 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con noso
 
 - Correo Electrónico: ljaramillocanas@gmail.com
 
+
+
+
+
+
 ## 📷 Capturas de Pantalla
 
+<p align="center">
+  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/ba7dd5e6-5ece-4fcb-a372-7e023d69c73b" alt="home">
+</p>
+
+## 
+
 <div align="center">
-  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/b11495c4-0a64-47a7-8433-b907a012885c" alt="Imagen 1" width="400" title="Título de la Imagen 1">
+  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/b11495c4-0a64-47a7-8433-b907a012885c" alt="Imagen 1" width="700" title="Título de la Imagen 1">
   <p><em>Inicio</em></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/20c5971d-f0d2-489c-b8a6-01145b8aa1d4" alt="Imagen 2" width="400" title="Título de la Imagen 2">
+  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/20c5971d-f0d2-489c-b8a6-01145b8aa1d4" alt="Imagen 2" width="700" title="Título de la Imagen 2">
   <p><em>Home</em></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/ae418f1e-fd0e-41fe-a30e-a518245395c5" alt="Imagen 3" width="400" title="Título de la Imagen 3">
+  <img src="https://github.com/ljaramillocanas/HelpDesk/assets/101465088/ae418f1e-fd0e-41fe-a30e-a518245395c5" alt="Imagen 3" width="700" title="Título de la Imagen 3">
   <p><em>Control de usuarios</em></p>
 </div>
 
